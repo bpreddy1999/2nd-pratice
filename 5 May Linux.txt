@@ -1,0 +1,53 @@
+Linux - Operating System 
+
+        Open source, free, Secure, efficient
+
+Webserver - Linux
+
+GUI and CLI - Graphical User Interface | Command Line Interface 
+
+Terminal
+
+Distributions - version - Ubuntu 
+
+https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20
+
+https://killercoda.com/playgrounds/scenario/ubuntu
+
+-------------------------------------------------------------------------------------
+
+mkdir = to create a directory
+
+ls = to list directory contents
+
+pwd = present working directory
+
+cd = to change directory | cd .. = to go back to the parent directory | cd = to go back to the home directory | cd - = last working directory
+
+history = list the commands used
+
+clear = to clear the terminal
+
+touch = to create an empty file
+
+cat = display the content of the file on the terminal
+
+echo = to create, overwrite or add a single content in a file | >> = append
+
+nano = to create and edit files in the nano text editor | ctrl s to save | ctrl x to exit
+
+vi = to create and edit files in the vi text editor | i for insert | esc for cmd | :w to save | :q to exit | :wq for both
+
+cp = to copy a file
+
+cp -r = to copy a directory
+
+mv  = to move a file or directory
+
+rm  = to delete a file
+
+rmdir = to delete an empty directory
+
+rm -r = to delete a non-empty directory
+
+rm -r * = to delete everything
